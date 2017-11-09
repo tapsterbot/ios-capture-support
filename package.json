@@ -1,6 +1,6 @@
 {
   "name": "ios-capture-support",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js addon for allowing screen capture from tethered iOS devices. It doesn't do the actual screen capturing or recording, but it performs the required actions to enable capture to happen.",
   "author": "Jason Huggins <hugs@tapster.io>",
   "license": "MIT",
