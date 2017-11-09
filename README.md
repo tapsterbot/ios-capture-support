@@ -14,4 +14,5 @@ but it performs the required actions to enable capture to happen.
     var capture = require('ios-capture-support')
     capture.allow()
     capture.startPlugin()
+    // Do something awesome
     capture.stopPlugin()
